@@ -13,6 +13,6 @@ The data used in this study is too large to uploade directly into GitHub, but ca
 
 The code for this analysis can be found in and and reproduced using `pos-n-gram-agc.ipynb`. 
 
-If you have any question sabout the paper or the code used to produce the analysis, please reach out to Isabel Arvelo (isabel.c.arvelo@vanderbilt.edu). 
+If you have any questions about the paper or the code used to produce the analysis, please reach out to Isabel Arvelo (isabel.c.arvelo@vanderbilt.edu). 
 
 
