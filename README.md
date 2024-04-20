@@ -4,7 +4,7 @@ This study investigates the distinctive linguistic structures between fiction an
 
 ## Data 
 
-The data used in this study can be downloaded from HuggingFace using the code in `data_download.ipynb`. Please note that the raw csv files will take up over 2 GB of space each. After running the code in the relevant notebook, you should have two csv files with raw data: 
+The data used in this study is too large to uploade directly into GitHub, but can be downloaded from HuggingFace using the code in `data_download.ipynb`. Please note that the raw csv files will take up over 2 GB of space each. After running the code in the relevant notebook, you should have two csv files with raw data: 
 
 * `gutenberg_books_raw.csv`
 * `gutenberg_books_raw_2.csv`
